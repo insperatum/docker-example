@@ -1,0 +1,65 @@
+name: root
+channels:
+- defaults
+dependencies:
+- anaconda-client=1.6.6
+- anaconda-project=0.8.2
+- asn1crypto=0.23.0
+- cffi=1.11.2
+- chardet=3.0.4
+- clyent=1.2.2
+- conda=4.3.31
+- conda-env=2.6.0
+- cryptography=2.1.4
+- decorator=4.2.1
+- idna=2.6
+- intel-openmp=2018.0.0
+- ipython_genutils=0.2.0
+- jsonschema=2.6.0
+- jupyter_core=4.4.0
+# - libcxx=4.0.1
+# - libcxxabi=4.0.1
+- libedit=3.1
+- libffi=3.2.1
+# - libgfortran=3.0.1
+- mkl=2018.0.1
+- nbformat=4.4.0
+- ncurses=6.0
+- numpy=1.14.0
+- pip=9.0.1
+- pycosat=0.6.3
+- pycparser=2.18
+- pyopenssl=17.5.0
+- pysocks=1.6.7
+- python=3.6.3
+- python-dateutil=2.6.1
+# - python.app=2
+- pytz=2017.3
+- pyyaml=3.12
+- readline=7.0
+- requests=2.18.4
+- ruamel_yaml=0.11.14
+- scipy=1.0.0
+- setuptools=36.5.0
+- six=1.11.0
+- sqlite=3.20.1
+- tk=8.6.7
+- tornado=4.5.3
+- traitlets=4.3.2
+- urllib3=1.22
+- wheel=0.30.0
+- xz=5.2.3
+- yaml=0.1.7
+- zlib=1.2.11
+- pip:
+  - autopep8==1.4.4
+  - certifi==2020.4.5.1
+  - entrypoints==0.3
+  - flake8==3.7.9
+  - ipython-genutils==0.2.0
+  - jupyter-core==4.4.0
+  - mccabe==0.6.1
+  - pycodestyle==2.5.0
+  - pyflakes==2.1.1
+  - ruamel-yaml==0.11.14
+prefix: /Users/lbh/miniconda3
